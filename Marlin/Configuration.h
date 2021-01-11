@@ -791,7 +791,7 @@
 
 // ANET A6 Firmware V2.0 defaults:
 // Accel: 1000 A-retract: 1000
-#define DEFAULT_ACCELERATION          800    // 1000 // X, Y, Z and E acceleration for printing moves
+#define DEFAULT_ACCELERATION          1000    // X, Y, Z and E acceleration for printing moves
 #define DEFAULT_RETRACT_ACCELERATION  1000    // E acceleration for retracts
 #define DEFAULT_TRAVEL_ACCELERATION   1000    // X, Y, Z acceleration for travel (non printing) moves
 
